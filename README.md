@@ -15,9 +15,9 @@
 
 1. Clonez ce dépôt dans répertoire approprié de votre serveur PHP:  git clone https://github.com/votreutilisateur/controle-wallbox.git
 2. Modifiez les variables d'identification dans le code source :
-	$email = 'xxx@xxxx.com'; // Email utilisé pour se connecter au compte Wallbox
-	$password = 'xxx'; // Mot de passe utilisé pour se connecter au compte Wallbox
-	$charger_id = xxxxxx; // Numéro de série de la Wallbox (les six chiffres après le préfixe SN)
+	a)	$email = 'xxx@xxxx.com'; // Email utilisé pour se connecter au compte Wallbox
+	b) $password = 'xxx'; // Mot de passe utilisé pour se connecter au compte Wallbox
+	c) $charger_id = xxxxxx; // Numéro de série de la Wallbox (les six chiffres après le préfixe SN)
 3. Accédez à l'application via votre navigateur pour commencer à contrôler votre Wallbox.
 
 
