@@ -14,7 +14,7 @@
 ## Installation
 
 1. Clonez ce dépôt dans répertoire approprié de votre serveur PHP:  
-   - git clone https://github.com/GregRuelle/wallbox-php-app.git
+   - `git clone https://github.com/GregRuelle/wallbox-php-app.git`
 2. Modifiez les variables d'identification dans le code source :
    - `$email = 'xxx@xxxx.com';` // Email utilisé pour se connecter au compte Wallbox
    - `$password = 'xxx';` // Mot de passe utilisé pour se connecter au compte Wallbox
@@ -30,5 +30,5 @@
 > - **Utilisation sur un réseau local sécurisé uniquement** : Limitez l'accès à cette application à un réseau local sécurisé (par exemple, derrière un pare-feu) et configurez des contrôles d'accès stricts.
 > - **Responsabilité** : L'utilisation de cette application se fait à vos propres risques. L'auteur décline toute responsabilité pour les dommages résultant d'une mauvaise configuration ou d'une utilisation non sécurisée de cette application.
 
-## Acknowledgements
-Ce script a été développé avec l'aide de ChatGPT et la documentation officielle disponible ici.
+## Remerciements & Sources
+Ce script a été développé avec l'aide de ChatGPT et la [documentation officielle disponible ici](https://github.com/SKB-CGN/wallbox).
