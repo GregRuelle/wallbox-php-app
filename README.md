@@ -31,4 +31,4 @@
 > - **Responsabilité** : L'utilisation de cette application se fait à vos propres risques. L'auteur décline toute responsabilité pour les dommages résultant d'une mauvaise configuration ou d'une utilisation non sécurisée de cette application.
 
 ## Remerciements & Sources
-Ce script a été développé avec l'aide de ChatGPT et la [documentation officielle disponible ici](https://github.com/SKB-CGN/wallbox).
+Ce script a été développé avec l'aide de ChatGPT et la [documentation officielle de l'API Wallbox disponible ici](https://github.com/SKB-CGN/wallbox).
